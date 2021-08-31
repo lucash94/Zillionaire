@@ -1,4 +1,4 @@
-### General information
+### Zillionaire App
 
 Manage all your financials within one single app!
 Interested? Check out the App on the [AppStore](https://apps.apple.com/us/app/zillionaire/id1582291065).
