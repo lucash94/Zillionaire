@@ -9,4 +9,4 @@ If you have any questions, feedback or issues please contact me via [zillionaire
 
 ### Data privacy
 [English](privacy-en.md)
-German
+[German](privacy-de.md)
