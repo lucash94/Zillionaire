@@ -6,8 +6,11 @@ All data is stored on the device itself and in the personal iCloud of the user. 
 
 ### App authorizations
 File access: Required to save exported data or load data that the user wants to import.
+
 Photo access: Required to load photos from the devices photo library in order to attach and store it within an element in the app.
+
 FaceID / TouchID: Required to lock the app. This is only a visual protection. There is no seperate encryption of the stored data implemented.
+
 Internet access & iCloud: Required to store the entered data within the users iCloud. Optionally, current stock price information can be fetched via the internet. This needs to be activated by the user within the depot element.
 
 ### Retrieve current stock prices
