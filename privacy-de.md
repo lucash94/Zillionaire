@@ -6,8 +6,11 @@ Die gespeicherten Daten werden auf dem jeweiligen Gerät selbst und der iCloud d
 
 ### App Berechtigungen
 Dateizugriff: Wird benötigt um Exporte zu speichern oder gespeicherte Dateien zu importieren.
+
 Fotozugriff: Wird benötigt um Bilder aus der Fotomediathek laden und diese als Anhang zu einzelnen Elementen speichern zu können.
+
 FaceID / TouchID: Wird benötigt zur Sperrung der App. Die Sperre bietet lediglich einen Sichtschutz, es findet keine zusätzliche Verschlüsselung der gespeicherten Daten statt.
+
 Internetzugriff & iCloud: Wird benötigt um die gespeicherten Daten in der iCloud zu sichern. Optional werden aktuelle Aktienkurse über das Internet abgefragt, falls das in den jeweiligen Elementen aktiviert wurde.
 
 ### Bezug aktueller Aktienkurse
