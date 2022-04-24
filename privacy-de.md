@@ -11,11 +11,11 @@ Fotozugriff: Wird benötigt um Bilder aus der Fotomediathek laden und diese als 
 
 FaceID / TouchID: Wird benötigt zur Sperrung der App. Die Sperre bietet lediglich einen Sichtschutz, es findet keine zusätzliche Verschlüsselung der gespeicherten Daten statt.
 
-Internetzugriff & iCloud: Wird benötigt um die gespeicherten Daten in der iCloud zu sichern. Optional werden aktuelle Aktienkurse über das Internet abgefragt, falls das in den jeweiligen Elementen aktiviert wurde.
+Internetzugriff & iCloud: Wird benötigt um die gespeicherten Daten in der iCloud zu sichern. Optional werden aktuelle Aktienkurse über das Internet abgefragt, sofern die Einstellung in den jeweiligen Elementen aktiviert wurde.
 
 ### Bezug aktueller Aktienkurse
-Standardmäßig werden keine Abfragen aus der App an Drittanbieter gesendet. Sollte in einem Depoteintrag die Option 'Zeige aktuelle Kurspreise' aktiviert sein, werden die jeweils aktuellen Kurse auf Basis des vom Benutzer hinterlegten Ticker Symbols bei Yahoo Finance abgefragt. Über die erhaltenen Kurse wird der aktuelle Wert der jeweiligen Position ermittelt. Da diese Daten von Dritten bereitgestellt werden, übernimmt Zillionaire keine Haftung für die Richtigkeit und Aktualität der abgefragten und angezeigten Daten.
+Standardmäßig werden keine Abfragen aus der App an Drittanbieter gesendet. Sollte in einem Depoteintrag die Option 'Zeige aktuelle Kurspreise' aktiviert sein, werden die jeweils aktuellen Kurse (auf Basis des vom Benutzer hinterlegten Ticker Symbols) bei Yahoo Finance abgefragt. Über die erhaltenen Kurse wird der aktuelle Wert der jeweiligen Position ermittelt. Da diese Daten von Dritten bereitgestellt werden, übernimmt Zillionaire keine Haftung für die Richtigkeit und Aktualität der abgefragten und angezeigten Daten.
 
 ### Löschen gespeicherter Daten
 Die gespeicherten Daten können über den Menüpunkt 'Gespeicherte Daten löschen' in der App selbst oder über die Einstellungen des Geräts vorgenommen werden.
-Achtung: Gelöschte Einträge sind unwiderruflich gelöscht und können nicht wiederherstellt werden.
+Achtung: Gelöschte Einträge sind unwiderruflich gelöscht und können nicht wiederhergestellt werden.
